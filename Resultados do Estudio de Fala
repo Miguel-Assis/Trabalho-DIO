@@ -1,0 +1,972 @@
+[
+    {
+        "Id": "21ccd5ebf9d645889bf5febf13fbc68b",
+        "RecognitionStatus": "Success",
+        "Offset": 9100000,
+        "Duration": 28800000,
+        "Channel": 0,
+        "DisplayText": "Olá, meu nome é Miguel, tenho 20 anos.",
+        "NBest": [
+            {
+                "Confidence": 0.88594866,
+                "Lexical": "olá meu nome é miguel tenho vinte anos",
+                "ITN": "olá meu nome é miguel tenho 20 anos",
+                "MaskedITN": "olá meu nome é miguel tenho 20 anos",
+                "Display": "Olá, meu nome é Miguel, tenho 20 anos.",
+                "Words": [
+                    {
+                        "Word": "olá",
+                        "Offset": 9100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "meu",
+                        "Offset": 16700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "nome",
+                        "Offset": 18700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 20300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "miguel",
+                        "Offset": 20700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "tenho",
+                        "Offset": 25500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "vinte",
+                        "Offset": 27900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "anos",
+                        "Offset": 31900000,
+                        "Duration": 6000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.88594866,
+                "Lexical": "olá meu nome é miguel tenho vinte anos",
+                "ITN": "olá meu nome é miguel tenho vinte anos",
+                "MaskedITN": "olá meu nome é miguel tenho vinte anos",
+                "Display": "olá meu nome é miguel tenho vinte anos",
+                "Words": [
+                    {
+                        "Word": "olá",
+                        "Offset": 9100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "meu",
+                        "Offset": 16700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "nome",
+                        "Offset": 18700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 20300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "miguel",
+                        "Offset": 20700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "tenho",
+                        "Offset": 25500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "vinte",
+                        "Offset": 27900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "anos",
+                        "Offset": 31900000,
+                        "Duration": 6000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8859486,
+                "Lexical": "olá meu nome é miguel tenho vinte anos",
+                "ITN": "olá meu nome é miguel tenho vinte anos",
+                "MaskedITN": "olá meu nome é miguel tenho vinte anos",
+                "Display": "olá meu nome é miguel tenho vinte anos",
+                "Words": [
+                    {
+                        "Word": "olá",
+                        "Offset": 9100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "meu",
+                        "Offset": 16700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "nome",
+                        "Offset": 18700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 20300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "miguel",
+                        "Offset": 20700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "tenho",
+                        "Offset": 25500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "vinte",
+                        "Offset": 27900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "anos",
+                        "Offset": 31900000,
+                        "Duration": 6000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.88594866,
+                "Lexical": "olá meu nome é miguel tenho vinte anos",
+                "ITN": "olá meu nome é miguel tenho vinte anos",
+                "MaskedITN": "olá meu nome é miguel tenho vinte anos",
+                "Display": "olá meu nome é miguel tenho vinte anos",
+                "Words": [
+                    {
+                        "Word": "olá",
+                        "Offset": 9100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "meu",
+                        "Offset": 16700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "nome",
+                        "Offset": 18700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 20300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "miguel",
+                        "Offset": 20700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "tenho",
+                        "Offset": 25500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "vinte",
+                        "Offset": 27900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "anos",
+                        "Offset": 31900000,
+                        "Duration": 6000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.88594866,
+                "Lexical": "olá meu nome é miguel tenho vinte anos",
+                "ITN": "olá meu nome é miguel tenho vinte anos",
+                "MaskedITN": "olá meu nome é miguel tenho vinte anos",
+                "Display": "olá meu nome é miguel tenho vinte anos",
+                "Words": [
+                    {
+                        "Word": "olá",
+                        "Offset": 9100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "meu",
+                        "Offset": 16700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "nome",
+                        "Offset": 18700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 20300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "miguel",
+                        "Offset": 20700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "tenho",
+                        "Offset": 25500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "vinte",
+                        "Offset": 27900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "anos",
+                        "Offset": 31900000,
+                        "Duration": 6000000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "da43aa4c36c34883ba190c3ad2fdfd2a",
+        "RecognitionStatus": "Success",
+        "Offset": 45500000,
+        "Duration": 14400000,
+        "Channel": 0,
+        "DisplayText": "E atualmente, o curso.",
+        "NBest": [
+            {
+                "Confidence": 0.47719455,
+                "Lexical": "e atualmente o curso",
+                "ITN": "e atualmente o curso",
+                "MaskedITN": "e atualmente o curso",
+                "Display": "E atualmente, o curso.",
+                "Words": [
+                    {
+                        "Word": "e",
+                        "Offset": 45500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "atualmente",
+                        "Offset": 46700000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 51900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "curso",
+                        "Offset": 52300000,
+                        "Duration": 7600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.41513494,
+                "Lexical": "que atualmente o curso",
+                "ITN": "que atualmente o curso",
+                "MaskedITN": "que atualmente o curso",
+                "Display": "que atualmente o curso",
+                "Words": [
+                    {
+                        "Word": "que",
+                        "Offset": 45500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "atualmente",
+                        "Offset": 46700000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 51900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "curso",
+                        "Offset": 52300000,
+                        "Duration": 7600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.37699407,
+                "Lexical": "é atualmente o curso",
+                "ITN": "é atualmente o curso",
+                "MaskedITN": "é atualmente o curso",
+                "Display": "é atualmente o curso",
+                "Words": [
+                    {
+                        "Word": "é",
+                        "Offset": 45900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "atualmente",
+                        "Offset": 47100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 51900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "curso",
+                        "Offset": 52300000,
+                        "Duration": 7600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.47719455,
+                "Lexical": "e atualmente o curso",
+                "ITN": "e atualmente o curso",
+                "MaskedITN": "e atualmente o curso",
+                "Display": "e atualmente o curso",
+                "Words": [
+                    {
+                        "Word": "e",
+                        "Offset": 45500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "atualmente",
+                        "Offset": 46700000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 51900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "curso",
+                        "Offset": 52300000,
+                        "Duration": 7600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.41513494,
+                "Lexical": "que atualmente o curso",
+                "ITN": "que atualmente o curso",
+                "MaskedITN": "que atualmente o curso",
+                "Display": "que atualmente o curso",
+                "Words": [
+                    {
+                        "Word": "que",
+                        "Offset": 45500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "atualmente",
+                        "Offset": 46700000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 51900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "curso",
+                        "Offset": 52300000,
+                        "Duration": 7600000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "278d03590e9c42bc89c6746cf0e3f6b8",
+        "RecognitionStatus": "Success",
+        "Offset": 69500000,
+        "Duration": 55200000,
+        "Channel": 0,
+        "DisplayText": "Uma faculdade de análise e desenvolvimento de sistemas e estou testando.",
+        "NBest": [
+            {
+                "Confidence": 0.7636052,
+                "Lexical": "uma faculdade de análise e desenvolvimento de sistemas e estou testando",
+                "ITN": "uma faculdade de análise e desenvolvimento de sistemas e estou testando",
+                "MaskedITN": "uma faculdade de análise e desenvolvimento de sistemas e estou testando",
+                "Display": "Uma faculdade de análise e desenvolvimento de sistemas e estou testando.",
+                "Words": [
+                    {
+                        "Word": "uma",
+                        "Offset": 69500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "faculdade",
+                        "Offset": 71100000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 78700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "análise",
+                        "Offset": 84300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 89100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "desenvolvimento",
+                        "Offset": 91100000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 97900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "sistemas",
+                        "Offset": 98700000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 107500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "estou",
+                        "Offset": 111900000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "testando",
+                        "Offset": 117500000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7030536,
+                "Lexical": "uma faculdade de analise e desenvolvimento de sistemas e estou testando",
+                "ITN": "uma faculdade de analise e desenvolvimento de sistemas e estou testando",
+                "MaskedITN": "uma faculdade de analise e desenvolvimento de sistemas e estou testando",
+                "Display": "uma faculdade de analise e desenvolvimento de sistemas e estou testando",
+                "Words": [
+                    {
+                        "Word": "uma",
+                        "Offset": 69500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "faculdade",
+                        "Offset": 71100000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 78700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "analise",
+                        "Offset": 84300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 89100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "desenvolvimento",
+                        "Offset": 91100000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 97900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "sistemas",
+                        "Offset": 98700000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 107500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "estou",
+                        "Offset": 111900000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "testando",
+                        "Offset": 117500000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7636052,
+                "Lexical": "uma faculdade de análise e desenvolvimento de sistemas e estou testando",
+                "ITN": "uma faculdade de análise e desenvolvimento de sistemas e estou testando",
+                "MaskedITN": "uma faculdade de análise e desenvolvimento de sistemas e estou testando",
+                "Display": "uma faculdade de análise e desenvolvimento de sistemas e estou testando",
+                "Words": [
+                    {
+                        "Word": "uma",
+                        "Offset": 69500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "faculdade",
+                        "Offset": 71100000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 78700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "análise",
+                        "Offset": 84300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 89100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "desenvolvimento",
+                        "Offset": 91100000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 97900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "sistemas",
+                        "Offset": 98700000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 107500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "estou",
+                        "Offset": 111900000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "testando",
+                        "Offset": 117500000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.74798083,
+                "Lexical": "uma faculdade de análise e desenvolvimento de sistemas e estou testando",
+                "ITN": "uma faculdade de análise e desenvolvimento de sistemas e estou testando",
+                "MaskedITN": "uma faculdade de análise e desenvolvimento de sistemas e estou testando",
+                "Display": "uma faculdade de análise e desenvolvimento de sistemas e estou testando",
+                "Words": [
+                    {
+                        "Word": "uma",
+                        "Offset": 69500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "faculdade",
+                        "Offset": 71100000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 78700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "análise",
+                        "Offset": 84300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 89100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "desenvolvimento",
+                        "Offset": 91100000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 97900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "sistemas",
+                        "Offset": 98700000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 107500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "estou",
+                        "Offset": 111900000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "testando",
+                        "Offset": 117500000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7030534,
+                "Lexical": "uma faculdade de analise e desenvolvimento de sistemas e estou testando",
+                "ITN": "uma faculdade de analise e desenvolvimento de sistemas e estou testando",
+                "MaskedITN": "uma faculdade de analise e desenvolvimento de sistemas e estou testando",
+                "Display": "uma faculdade de analise e desenvolvimento de sistemas e estou testando",
+                "Words": [
+                    {
+                        "Word": "uma",
+                        "Offset": 69500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "faculdade",
+                        "Offset": 71100000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 78700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "analise",
+                        "Offset": 84300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 89100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "desenvolvimento",
+                        "Offset": 91100000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 97900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "sistemas",
+                        "Offset": 98700000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 107500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "estou",
+                        "Offset": 111900000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "testando",
+                        "Offset": 117500000,
+                        "Duration": 9600000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "6c0b248e609046f292e137fb33f23ff1",
+        "RecognitionStatus": "Success",
+        "Offset": 136300000,
+        "Duration": 32000000,
+        "Channel": 0,
+        "DisplayText": "Esse programa para o curso da Dio.",
+        "NBest": [
+            {
+                "Confidence": 0.7348872,
+                "Lexical": "esse programa para o curso da dio",
+                "ITN": "esse programa para o curso da dio",
+                "MaskedITN": "esse programa para o curso da dio",
+                "Display": "Esse programa para o curso da Dio.",
+                "Words": [
+                    {
+                        "Word": "esse",
+                        "Offset": 136300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "programa",
+                        "Offset": 139100000,
+                        "Duration": 8400000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 153100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 155900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "curso",
+                        "Offset": 156300000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 160300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "dio",
+                        "Offset": 161900000,
+                        "Duration": 6400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7348872,
+                "Lexical": "esse programa para o curso da dio",
+                "ITN": "esse programa para o curso da dio",
+                "MaskedITN": "esse programa para o curso da dio",
+                "Display": "esse programa para o curso da dio",
+                "Words": [
+                    {
+                        "Word": "esse",
+                        "Offset": 136300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "programa",
+                        "Offset": 139100000,
+                        "Duration": 8400000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 153100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 155900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "curso",
+                        "Offset": 156300000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 160300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "dio",
+                        "Offset": 161900000,
+                        "Duration": 6800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7348872,
+                "Lexical": "esse programa para o curso da dio",
+                "ITN": "esse programa para o curso da dio",
+                "MaskedITN": "esse programa para o curso da dio",
+                "Display": "esse programa para o curso da dio",
+                "Words": [
+                    {
+                        "Word": "esse",
+                        "Offset": 136300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "programa",
+                        "Offset": 139100000,
+                        "Duration": 8400000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 153100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 155900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "curso",
+                        "Offset": 156300000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 160300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "dio",
+                        "Offset": 161900000,
+                        "Duration": 6800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7348872,
+                "Lexical": "esse programa para o curso da dio",
+                "ITN": "esse programa para o curso da dio",
+                "MaskedITN": "esse programa para o curso da dio",
+                "Display": "esse programa para o curso da dio",
+                "Words": [
+                    {
+                        "Word": "esse",
+                        "Offset": 136300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "programa",
+                        "Offset": 139100000,
+                        "Duration": 8400000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 153100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 155900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "curso",
+                        "Offset": 156300000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 160300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "dio",
+                        "Offset": 161900000,
+                        "Duration": 6800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7348872,
+                "Lexical": "esse programa para o curso da dio",
+                "ITN": "esse programa para o curso da dio",
+                "MaskedITN": "esse programa para o curso da dio",
+                "Display": "esse programa para o curso da dio",
+                "Words": [
+                    {
+                        "Word": "esse",
+                        "Offset": 136300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "programa",
+                        "Offset": 139100000,
+                        "Duration": 8400000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 153100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 155900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "curso",
+                        "Offset": 156300000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 160300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "dio",
+                        "Offset": 161900000,
+                        "Duration": 6800000
+                    }
+                ]
+            }
+        ]
+    }
+]
